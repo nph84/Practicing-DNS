@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://github.com/user-attachments/assets/b0bd706b-d425-4897-bff6-5d1467b09cb8"/>
 </p>
 
 <h1>Practicing DNS</h1>

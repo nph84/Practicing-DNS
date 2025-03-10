@@ -153,11 +153,23 @@ Go back to the domain controller PC and create a CNAME record that points the ho
 
 
 
+<p>
+Go back to the client PC and attempt to ping “search” and observe the results of the CNAME record.
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/c9b93549-5dd5-4743-9013-937eb132ffb2" height="80%" width="80%" /> 
+</p>
+<br />
 
 
 
-
-
+<p>
+On the client PC, nslookup “search”, observe the results of the CNAME record.
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/a70e0386-f60d-4cef-b628-4f0d5030c1b4" height="80%" width="80%" /> 
+</p>
+<br />
 
 
 

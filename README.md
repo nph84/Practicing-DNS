@@ -144,7 +144,8 @@ Attempt to ping "mainframe again. Observe the address of the new record is showi
 <p>
 Go back to the domain controller PC and create a CNAME record that points the host “search” to “www.google.com”
 <p>
-<img src="" height="80%" width="80%" /> 
+<img src="https://github.com/user-attachments/assets/3d7e03a4-8c4d-41b6-b3dd-99c743d6310e" height="80%" width="80%" /> <br /><br />
+<img src="https://github.com/user-attachments/assets/616ac34a-c908-4264-ae2e-36ac7f1b22f9" height="80%" width="80%" /> <br /><br />
 </p>
 <br />
 

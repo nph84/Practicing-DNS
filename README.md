@@ -27,7 +27,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 **A-Record exercise**
 <p>
-After logging into both the domain controller pc and the client pc as the administrator, ping "mainframe" and observe the failure.
+After logging into both the domain controller PC and the client PC as the administrator, ping "mainframe" and observe the failure.
 </p> 
 <p>
 <img src="https://github.com/user-attachments/assets/e57bbf2f-1ec7-4127-902c-4820cad98ffe" height="80%" width="80%" /> 
@@ -57,8 +57,13 @@ Perform an nslookup for "mainframe" and notice that it fails (there is no DNS re
 
 
 
-
-
+<p>
+On the client PC ping the "mainframe" and observe that it works.
+</p> 
+<p>
+<img src="https://github.com/user-attachments/assets/2aa28bd9-3774-4518-9945-7f9277dd13ec" height="80%" width="80%" /> 
+</p>
+<br />
 
 
 

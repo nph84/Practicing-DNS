@@ -3,7 +3,7 @@
 </p>
 
 <h1>Practicing DNS</h1>
-This tutorial outlines the steps to create A-Records, Cnames, and clear DNS cache for access purposes.<br />
+This tutorial outlines the steps to create and edit A-Records, Cnames, and clear DNS cache for access purposes.<br />
 
 <h2>Environments and Technologies Used</h2>
 

@@ -139,6 +139,14 @@ Attempt to ping "mainframe again. Observe the address of the new record is showi
 <br />
 
 
+**CNAME Record Exercise**
+
+<p>
+Go back to the domain controller PC and create a CNAME record that points the host “search” to “www.google.com”
+<p>
+<img src="" height="80%" width="80%" /> 
+</p>
+<br />
 
 
 

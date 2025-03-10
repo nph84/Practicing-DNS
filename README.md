@@ -146,6 +146,7 @@ Go back to the domain controller PC and create a CNAME record that points the ho
 <p>
 <img src="https://github.com/user-attachments/assets/3d7e03a4-8c4d-41b6-b3dd-99c743d6310e" height="80%" width="80%" /> <br /><br />
 <img src="https://github.com/user-attachments/assets/616ac34a-c908-4264-ae2e-36ac7f1b22f9" height="80%" width="80%" /> <br /><br />
+<img src="https://github.com/user-attachments/assets/571beb97-981a-4316-a09f-c2f635e1d4e0" height="80%" width="80%" /> <br /><br />
 </p>
 <br />
 

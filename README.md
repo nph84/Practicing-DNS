@@ -3,7 +3,7 @@
 </p>
 
 <h1>Practicing DNS</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial outlines the steps to build an intuition for DNS.<br />
 
 <h2>Environments and Technologies Used</h2>
 

@@ -19,10 +19,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Inspect DNS A-Records on the server (hostname to IP address mappings
+- Inspect DNS A-Records on the server (hostname to IP address mappings)
 - Create some A-Records on the server and observe them from the client
-- Delete records from server and observe the client DNS cache to gain understanding
-- Create a "CNAME" records (mapping one name to another name)
+- Delete records from the server and observe the client DNS cache to gain an understanding
+- Create a "CNAME" record (mapping one name to another name)
 
 <h2>Deployment and Configuration Steps</h2>
 

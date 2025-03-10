@@ -19,9 +19,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- A-Record exercise
-- Local DNS cache exercise
-- CNAME record exercise
+- A-Record Exercise
+- Local DNS Cache Exercise
+- CNAME Record Exercise
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -58,7 +58,7 @@ Perform an nslookup for "mainframe" and notice that it fails (there is no DNS re
 
 
 <p>
-On the client PC ping the "mainframe" and observe that it works.
+On the client PC, ping the "mainframe" and observe that it works.
 </p> 
 <p>
 <img src="https://github.com/user-attachments/assets/2aa28bd9-3774-4518-9945-7f9277dd13ec" height="80%" width="80%" /> 
@@ -67,6 +67,15 @@ On the client PC ping the "mainframe" and observe that it works.
 
 
 
+**Local DNS Cache Exercise**
+
+<p>
+On the client PC ping the "mainframe" and observe that it works.
+</p> 
+<p>
+<img src="https://github.com/user-attachments/assets/2aa28bd9-3774-4518-9945-7f9277dd13ec" height="80%" width="80%" /> 
+</p>
+<br />
 
 
 

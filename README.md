@@ -19,18 +19,19 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Inspect DNS A-Records on the server (hostname to IP address mappings)
-- Create some A-Records on the server and observe them from the client
-- Delete records from the server and observe the client DNS cache to gain an understanding
-- Create a "CNAME" record (mapping one name to another name)
+- A-Record exercise
+- Local DNS cache exercise
+- CNAME record exercise
 
 <h2>Deployment and Configuration Steps</h2>
 
+**A-Record exercise**
 <p>
-<img src="" height="80%" width="80%" /> 
-</p>
-<p>
- 
+After logging into both the domain controller pc and the client pc as the administrator, ping "mainframe" and observe the failure.
 </p> 
+<p>
+<img src="https://github.com/user-attachments/assets/e57bbf2f-1ec7-4127-902c-4820cad98ffe" height="80%" width="80%" /> 
+</p>
+
 <br />
 

@@ -89,9 +89,23 @@ On the domain controller PC we will change the mainframe's record address to 8.8
 
 
 
+<p>
+Go back to the client PC and ping “mainframe” again. Observe that it still pings the old address.
+</p> 
+<p>
+<img src="https://github.com/user-attachments/assets/f7952beb-9723-4f49-b814-fe71e89f4b8c" height="80%" width="80%" /> 
+</p>
+<br />
 
 
 
+<p>
+Observe the local DNS cache.
+</p> 
+<p>
+<img src="https://github.com/user-attachments/assets/0f6fc4b8-b38b-4507-9570-c2c642561259" height="80%" width="80%" /> 
+</p>
+<br />
 
 
 

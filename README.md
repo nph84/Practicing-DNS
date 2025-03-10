@@ -78,6 +78,16 @@ On the client PC ping the "mainframe" and observe that it works.
 <br />
 
 
+<p>
+On the domain controller PC we will change the mainframe's record address to 8.8.8.8
+</p> 
+<p>
+<img src="https://github.com/user-attachments/assets/44db04a3-2098-4185-8f05-e2e288435b2d" height="80%" width="80%" /> 
+<img src="https://github.com/user-attachments/assets/097b0651-a5b3-44a2-a23d-e94ea24d21f0" height="80%" width="80%" /> 
+</p>
+<br />
+
+
 
 
 

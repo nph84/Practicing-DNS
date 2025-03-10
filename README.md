@@ -110,6 +110,47 @@ Observe the local DNS cache.
 
 
 
+<p>
+Flush the DNS cache.
+</p> 
+<p>
+<img src="https://github.com/user-attachments/assets/8caf2088-00e2-4f13-af00-76817bc9fa45" height="80%" width="80%" /> 
+</p>
+<br />
+
+
+
+<p>
+Observe that the cache is empty.
+</p> 
+<p>
+<img src="https://github.com/user-attachments/assets/d29b7d34-c21d-4ddb-b7d4-dccd9f6582fb" height="80%" width="80%" /> 
+</p>
+<br />
+
+
+
+<p>
+Attempt to ping "mainframe again. Observe the address of the new record is showing up.
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/cc94dace-d803-41d7-813e-12a4f96a25bf" height="80%" width="80%" /> 
+</p>
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
